@@ -10,4 +10,4 @@
  8. 
 
 click here 
-[![Watch the video](Screenshot from 2024-01-02 12-13-32.png)](https://youtu.be/gs_K-0Mcask)
+[![Watch the video]([Screenshot from 2024-01-02 12-13-32.png](https://github.com/NajiAboo/awscloudwatchlogger/blob/main/Screenshot%20from%202024-01-02%2012-13-32.png)https://github.com/NajiAboo/awscloudwatchlogger/blob/main/Screenshot%20from%202024-01-02%2012-13-32.png)](https://youtu.be/gs_K-0Mcask)
