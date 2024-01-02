@@ -8,3 +8,6 @@
  6. In the code, change the credentials , Log Group name and Log stream name
  7. run python app.py
  8. 
+
+click here 
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/gs_K-0Mcask)
